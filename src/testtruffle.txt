@@ -2,8 +2,8 @@
 
 
 
-SECRET_KEY=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
-apikey: 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
+SECRET_KEY=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
+apikey: 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
 
 
 
